@@ -1,3 +1,4 @@
+.codio
 logs/*
 !.gitkeep
 node_modules/
